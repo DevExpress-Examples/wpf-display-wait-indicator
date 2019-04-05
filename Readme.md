@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/T442248dx/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/T442248dx/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/T442248dx/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/T442248dx/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/T442248dx/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/T442248dx/MainWindow.xaml.vb))
 * [MyViewModel.cs](./CS/T442248dx/MyClasses/MyViewModel.cs) (VB: [MyViewModel.vb](./VB/T442248dx/MyClasses/MyViewModel.vb))
 <!-- default file list end -->
 # How to add wait indicator to your application
