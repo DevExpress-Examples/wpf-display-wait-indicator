@@ -14,7 +14,7 @@ This example shows the [WaitIndicator](https://docs.devexpress.com/WPF/114373/co
 </dx:WaitIndicator>
 ```
 
-The [WaitIndicator](https://docs.devexpress.com/WPF/114373/controls-and-libraries/windows-and-utility-controls/wait-indicator) works within the main application's UI thread. The UI freezes may affect the Wait Indicator animation.
+The [WaitIndicator](https://docs.devexpress.com/WPF/114373/controls-and-libraries/windows-and-utility-controls/wait-indicator) works within the main application's UI thread. The UI freezes may affect the [WaitIndicator](https://docs.devexpress.com/WPF/114373/controls-and-libraries/windows-and-utility-controls/wait-indicator) animation.
 
 To show an indicator while the main thread is locked, use the following components instead of a standalone [WaitIndicator](https://docs.devexpress.com/WPF/114373/controls-and-libraries/windows-and-utility-controls/wait-indicator):
 * [SplashScreenManager](https://docs.devexpress.com/WPF/401685/controls-and-libraries/windows-and-utility-controls/splash-screen-manager) (available in **v20.1** and newer) - shows an indicator window in a separate thread;
