@@ -4,13 +4,13 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Display a WaitIndicator
+# Display the WPF WaitIndicator
 
-This example shows the [WaitIndicator](https://docs.devexpress.com/WPF/114373/controls-and-libraries/windows-and-utility-controls/wait-indicator) control and bound its `DeferedVisibility` property to `MyViewModel.IsWaitIndicatorVisible` to show/hide the indicator when `IsWaitIndicatorVisible` is changed.
+This example shows the [WaitIndicator](https://docs.devexpress.com/WPF/114373/controls-and-libraries/windows-and-utility-controls/wait-indicator) control. The control's `DeferedVisibility` property is bound to the View Model's `IsWaitIndicatorVisible` property.
 
 ```xml
 <dx:WaitIndicator DeferedVisibility="{Binding IsWaitIndicatorVisible}" Content="{Binding WaitIndicatorText}">
-    ...
+    <!-- ... -->
 </dx:WaitIndicator>
 ```
 
