@@ -37,7 +37,7 @@ To show an indicator while the main thread is locked, use the following componen
 ## More Examples
 * [Show a cancelable wait indicator (Splash Screen) and update its content during a complex background operation](https://github.com/DevExpress-Examples/How-to-show-a-cancelable-Splash-Screen-and-update-its-content-during-a-complex-background-operation)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-display-wait-indicator&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-display-wait-indicator&~~~was_helpful=no)
 
